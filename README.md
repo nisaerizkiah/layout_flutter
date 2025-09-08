@@ -1,4 +1,4 @@
-![praktikum3](https://github.com/user-attachments/assets/c1add793-a1aa-4f0c-9610-631a211c59eb)# Praktikum 1 Membangun Layout 
+# Praktikum 1 Membangun Layout 
 Menampilkan gambar wisata Danau Toba.
 Kemudian membuat tittle section berisi: 
 - Judul tempat wisata
